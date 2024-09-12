@@ -1,8 +1,1 @@
-.idea
 .vscode
-*.encode
-app-*.yml
-.gen/code
-.dist
-.golangci.yml
-gene-api
