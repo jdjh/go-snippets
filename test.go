@@ -1,5 +1,9 @@
 package go_snippets
 
-func init() {
+import (
+	"fmt"
+)
 
+func init() {
+	fmt.Println("init() function is called")
 }
